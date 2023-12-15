@@ -1,0 +1,26 @@
+{
+  "name": "miesh",
+  "version": "1.0.0",
+  "description": "integration",
+  "main": "miesh",
+  "scripts": {
+    "test": "miesh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "miesh"
+  },
+  "keywords": [
+    "miesh"
+  ],
+  "author": "satya",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "stripe": "^14.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
